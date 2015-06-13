@@ -2,3 +2,7 @@
 	path = Externals/Qt
 	url = https://github.com/dolphin-emu/ext-win-qt.git
 	branch = master
+[submodule "Externals/Sparkle"]
+	path = Externals/Sparkle
+	url = git@github.com:sparkle-project/Sparkle.git
+	branch = 1.10.0
